@@ -1,0 +1,13 @@
+1. L1 - Create Local git repository and demonstrate 
+all git reset options and revert. Compare the 
+differences 
+2. L2 - Create Local git repository and demonstrate 
+git merge and Merge Conflicts with the steps to 
+resolve merge conflicts 
+3. L3 - Using Local and Remote git repositories 
+demonstrate git pull and git fetch. Compare the 
+differences 
+4. L4 - Clone GitHub repository using Visual Studio 
+Code IDE 
+5. L5 - Push the incremental changes to GitHub 
+Repository through Visual Studio Code IDE
