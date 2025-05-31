@@ -10,4 +10,5 @@ differences
 4. L4 - Clone GitHub repository using Visual Studio 
 Code IDE 
 5. L5  Push the incremental changes to GitHub 
-Repository through Visual Studio Code IDE
+Repository through Visual Studio Code IDE 
+//Making Changes to the project
