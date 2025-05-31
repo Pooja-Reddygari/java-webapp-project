@@ -11,4 +11,4 @@ differences
 Code IDE 
 5. L5  Push the incremental changes to GitHub 
 Repository through Visual Studio Code IDE 
-//Making Changes to the project
+//Making Changes to the project code
