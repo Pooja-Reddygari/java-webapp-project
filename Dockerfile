@@ -5,7 +5,7 @@ FROM tomcat:9.0
 RUN rm -rf /usr/local/tomcat/webapps/*
 
 # This copies WAR from maven target directory into tomcat's ROOT
-COPY target/demo-snapshot.war /usr/local/tomcat/webapps/ROOT.war
+COPY target/demo-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
 
 # providing the tomcat port
 EXPOSE 8080
